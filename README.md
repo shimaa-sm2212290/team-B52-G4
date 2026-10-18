@@ -32,8 +32,7 @@
 
 ## Product Goal
 
-<!-- Write the agreed Product Goal here -->
-
+The product goal is to align the team around the core value delivered to customers and serve as a guiding compass throughout all development stages.
 
 
 ---
@@ -42,8 +41,8 @@
 
 | Sprint | Start Date | End Date | Sprint Goal |
 |--------|-----------|----------|-------------|
-| Sprint 1 |28-Sep-2026  |11-Oct-2026  |  |  |
-| Sprint 2 |12-Oct-2026  |18-Oct-2026  |  | 
+| Sprint 1 |28-Sep-2026  |11-Oct-2026  |  DFD's + Use Case |
+| Sprint 2 |12-Oct-2026  |18-Oct-2026  | Use case specifications + Class daiagram | 
 
 ---
 
