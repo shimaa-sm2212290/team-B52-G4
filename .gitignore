@@ -1,3 +1,7 @@
+# Ignore visual paradaim temp files
 *.bak_001f
+# Ignore VS temp files
 .vscode/settings.json
-*~$REENSHOTS.docx
+# Ignore Word/Office temp files
+~$*
+
