@@ -3,5 +3,7 @@
 # Ignore VS temp files
 .vscode/settings.json
 # Ignore Word/Office temp files
+~$*.docx
+~$*.doc
 ~$*
 
